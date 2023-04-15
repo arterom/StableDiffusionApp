@@ -1,0 +1,13 @@
+name: app_tf_SD
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.9
+  - tensorflow
+  - keras_cv
+  - pip
+  - matplotlib
+  - pip:
+    - keras_cv
+    - customtkinter
