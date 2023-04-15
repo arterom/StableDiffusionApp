@@ -1,13 +1,12 @@
-name: app_tf_SD
+name: stable_diff
 channels:
   - default
   - conda-forge
 dependencies:
   - python=3.9
   - tensorflow
-  - keras_cv
-  - pip
   - matplotlib
+  - pip
   - pip:
-    - keras_cv
+    - keras-cv
     - customtkinter
