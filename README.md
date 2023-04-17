@@ -17,7 +17,7 @@ $ `conda activate stable_diff`
 ## Quickstart Guide
 
 $ `python GUI.py`
-![Model](StableDiffusionApp/example.png)
+![Model](example.png)
 # -------------------------
 See also availabe reference guide at: 
 https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
