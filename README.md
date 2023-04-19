@@ -1,5 +1,7 @@
 # StableDiffusionApp
 Simple application to generate images with the Keras text-to-image Stable Diffusion model.
+See also availabe reference guide at: 
+https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
 # -------------------------
 ## Setting up the environment
 Setting up conda environment with the right dependencies:
@@ -14,10 +16,18 @@ $ `conda activate stable_diff`
 
 # -------------------------
 
-## Quickstart Guide
+## Quickstart GUI
 
 $ `python GUI.py`
 ![Model](example.png)
 # -------------------------
-See also availabe reference guide at: 
-https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
+
+## Quickstart Node App
+
+$ `cd client`
+
+$ `npm install`
+
+$ `npm start`
+
+# -------------------------
