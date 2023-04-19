@@ -22,7 +22,15 @@ $ `python GUI.py`
 ![Model](example.png)
 # -------------------------
 
-## Quickstart Node App
+## Quickstart Node App (2x terminals)
+
+# API
+
+$ `cd api`
+
+$ `uvicorn api:app --reload`
+
+# Webserver
 
 $ `cd client`
 
