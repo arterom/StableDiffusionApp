@@ -10,3 +10,5 @@ dependencies:
   - pip:
     - keras-cv
     - customtkinter
+    - fastapi
+    - "uvicorn[standard]"
